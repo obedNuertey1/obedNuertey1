@@ -66,6 +66,9 @@
 	<img src="image-2.png" align="center" alt="Apollo-GraphQL" width="80px" />
 	<img src="https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql" align="center" alt="Apollo-GraphQL" width="200px" />
 	<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" align="center" alt="React" width="200px" />
+	<img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" align="center" alt="Redux" width="200px" /> 
+	<img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="MUI" width="200px" />
+	<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" align="center" alt="react router" width="200px" />
 	<img src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white" align="center" alt="React Hook Form" width="200px" /> 
 	<img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" align="center" alt="MUI" width="200px" />
 	<img src="https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454" align="center" alt="NodeJS" width="200px" /> 
@@ -74,10 +77,7 @@
 	<img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" align="center" alt="Markdown" width="200px" />
 	<img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" align="center" alt="Socker.io" width="200px" /> 
 	<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="HTML5" width="200px" />
-	<img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" align="center" alt="Redux" width="200px" /> 
 	<img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" align="center" alt="LaTeX" width="200px" />
-	<img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="MUI" width="200px" />
-	<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" align="center" alt="react router" width="200px" />
 </div>
 
 ---
