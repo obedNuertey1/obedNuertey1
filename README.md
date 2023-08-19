@@ -13,6 +13,7 @@
 <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" align="center" alt="Dev.to blog" width="150px" />
 
 <!-- BLOG-POST-LIST:START -->
+- [Jest testing for React Crash Course ⚛️🚀](https://dev.to/obednuertey1/jest-testing-for-react-crash-course-906)
 <!-- BLOG-POST-LIST:END -->
 
 ---
