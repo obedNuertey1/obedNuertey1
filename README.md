@@ -63,6 +63,7 @@
 ## 🚅🚅FrontEnd Stack
 <div align="center">
 	<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="CSS3" width="200px" />
+	<img src="image-2.png" align="center" alt="Apollo-GraphQL" width="80px" />
 	<img src="https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql" align="center" alt="Apollo-GraphQL" width="200px" />
 	<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" align="center" alt="React" width="200px" />
 	<img src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white" align="center" alt="React Hook Form" width="200px" /> 
@@ -77,7 +78,6 @@
 	<img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" align="center" alt="LaTeX" width="200px" />
 	<img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="MUI" width="200px" />
 	<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" align="center" alt="react router" width="200px" />
-	<img src="image-2.png" align="center" alt="Apollo-GraphQL" width="80px" />
 </div>
 
 ---
