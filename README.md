@@ -100,6 +100,17 @@
 	<img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" align="center" alt="Socker.io" width="200px" /> 
 </div>
 
+---
+## 🧪🧪Software Testing Frameworks
+<div align="center">
+	<img src="image-3.png" align="center" alt="Cypress" width="200px" /> 
+	<img src="image-4.png" align="center" alt="Mocha" width="200px" /> 
+	<img src="image-5.png" align="center" alt="Mocha chai" width="200px" /> 
+	<img src="image-6.png" align="center" alt="Jest" width="200px" /> 
+</div>
+
+<!--![Alt text](image-6.png)-->
+
 <!--![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)-->
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=obedNuertey1&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obedNuertey1&show_icons=true&theme=tokyonight&layout=compact)
