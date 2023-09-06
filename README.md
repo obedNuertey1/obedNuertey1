@@ -5,13 +5,11 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Software+Engineer+By+Profession;Computer+Engineer;Auto+Mechanic;Pianist+By+Talent" alt="Headline" />
 </div>
 
----
-
 <div align="center" >
 	<img src="https://github-readme-stats.vercel.app/api?username=obedNuertey1&show_icons=true&theme=tokyonight" alt="Obed's GitHub stats"/>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obedNuertey1&show_icons=true&theme=tokyonight&layout=compact" alt="Obed's GitHub stats"/>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obedNuertey1&show_icons=true&theme=tokyonight&layout=donut" alt="Obed's GitHub stats"/>
-	<img alt="Coding" width="400" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
+	<img alt="Coding" width="250" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
 </div>
 
 ---
