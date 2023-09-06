@@ -19,6 +19,8 @@
 
 ## 📝 My Blog Posts <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" align="center" alt="Dev.to blog" width="150px" />
 <!-- BLOG-POST-LIST:START -->
+- [😎🤯Zoom Feature You Might Not Know About As A Newbie Developer](https://dev.to/obednuertey1/zoom-feature-you-might-not-know-about-as-a-newbie-developer-1437)
+- [Jest testing for React Crash Course ⚛️🚀](https://dev.to/obednuertey1/jest-testing-for-react-crash-course-906)
 <!-- BLOG-POST-LIST:END -->
 
 
