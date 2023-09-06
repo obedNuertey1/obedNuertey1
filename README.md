@@ -1,11 +1,17 @@
 [![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](http://www.sukeshrondla.com)
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Obed </h1>
 
+<div align=center>
+    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Software+Engineer+By+Profession;Computer+Engineer;Auto+Mechanic;Pianist+By+Talent" alt="Headline" />
+</div>
+
+---
+
 <div align="center" >
-	<img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
 	<img src="https://github-readme-stats.vercel.app/api?username=obedNuertey1&show_icons=true&theme=tokyonight" alt="Obed's GitHub stats"/>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obedNuertey1&show_icons=true&theme=tokyonight&layout=compact" alt="Obed's GitHub stats"/>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obedNuertey1&show_icons=true&theme=tokyonight&layout=donut" alt="Obed's GitHub stats"/>
+	<img alt="Coding" width="400" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
 </div>
 
 ---
@@ -15,8 +21,6 @@
 <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" align="center" alt="Dev.to blog" width="150px" />
 
 <!-- BLOG-POST-LIST:START -->
-- [😎🤯Zoom Feature You Might Not Know About As A Newbie Developer](https://dev.to/obednuertey1/zoom-feature-you-might-not-know-about-as-a-newbie-developer-1437)
-- [Jest testing for React Crash Course ⚛️🚀](https://dev.to/obednuertey1/jest-testing-for-react-crash-course-906)
 <!-- BLOG-POST-LIST:END -->
 
 
