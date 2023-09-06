@@ -25,12 +25,6 @@
 <!-- BLOG-POST-LIST:END -->
 
 
-<!------->
-<!--## 🎞🎞 My YouTube Videos:-->
-
-<!-- YT_VIDEO_LIST:START -->
-<!-- YT_VIDEO_LIST:END -->
-
 
 
 ---
