@@ -2,7 +2,8 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" loading="eager" width="35" /> I'm Obed </h1>
 
 <div align=center>
-    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Software+Engineer+By+Profession;Computer+Engineer;Auto+Mechanic;Pianist+By+Talent" alt="Headline" />
+<!--     <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Software+Engineer+By+Profession;Computer+Engineer;Auto+Mechanic;Pianist+By+Talent" alt="Headline" /> -->
+    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Software+Engineer+By+Profession;Computer+Engineer" alt="Headline" />
 </div>
 
 <div align="center" >
